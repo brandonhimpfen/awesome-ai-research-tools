@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome AI Research Tools"
+abstract: "A curated list of tools, platforms, frameworks, datasets, notebooks, workflows, and resources designed to support artificial intelligence research, experimentation, evaluation, and scientific collaboration."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-ai-research-tools"
+keywords:
+  - AI research
+  - research tools
+  - machine learning
+  - artificial intelligence
+  - LLMs
+  - scientific computing
+  - experiment tracking
+  - datasets
+  - open science
+  - awesome list
