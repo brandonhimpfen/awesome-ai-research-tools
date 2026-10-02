@@ -64,6 +64,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## Literature Search & Paper Tools
 
 - [arXiv](https://arxiv.org/) – Primary repository for ML and AI research papers.
+- [Clarity](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) – Base x402 AI research and chat API with pay-per-request USDC pricing.
 - [Papers With Code](https://paperswithcode.com/) – SOTA benchmarks and paper-to-code mappings.
 - [ar5iv](https://ar5iv.labs.arxiv.org/) – Effortless HTML versions of arXiv papers.
 - [Semantic Scholar](https://www.semanticscholar.org/) – AI-powered academic search engine.
