@@ -71,6 +71,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ResearchRabbit](https://www.researchrabbit.ai/) – Visual discovery tool for academic literature networks.
 - [Scholarcy](https://www.scholarcy.com/) – AI assistant for summarizing research papers.
 - [ExplainPaper](https://www.explainpaper.com/) – Highlight sections of papers and get explanations.
+- [Yila AI](https://yila.ai) – Research agent for literature reviews and PDF analysis with source-traceable claims.
 
 ## Dataset Tools
 
