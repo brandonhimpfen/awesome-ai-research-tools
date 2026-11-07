@@ -68,6 +68,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ar5iv](https://ar5iv.labs.arxiv.org/) – Effortless HTML versions of arXiv papers.
 - [Semantic Scholar](https://www.semanticscholar.org/) – AI-powered academic search engine.
 - [Connected Papers](https://www.connectedpapers.com/) – Visual graph exploration of related research.
+- [DisconfirmAI](https://disconfirmai.com/en) – Investment research and reading platform that helps you look for contrary evidence before building conviction.
 - [ResearchRabbit](https://www.researchrabbit.ai/) – Visual discovery tool for academic literature networks.
 - [Scholarcy](https://www.scholarcy.com/) – AI assistant for summarizing research papers.
 - [ExplainPaper](https://www.explainpaper.com/) – Highlight sections of papers and get explanations.
